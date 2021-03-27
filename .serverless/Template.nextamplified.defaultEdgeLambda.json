@@ -1,0 +1,17 @@
+{
+  "name": "c018apj-wxq2imb",
+  "hash": "29l4856XYFbe49fj3hxsuu+/nFwqyU39/JxbB0CrkGU=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "C:\\Users\\vimal\\Desktop\\project v2\\AmplifyTest\\AMPLIFYNEXT\\next-amplified\\.serverless_nextjs\\default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::804959480827:role/c018apj-by33od"
+  },
+  "arn": "arn:aws:lambda:us-east-1:804959480827:function:c018apj-wxq2imb",
+  "region": "us-east-1"
+}
